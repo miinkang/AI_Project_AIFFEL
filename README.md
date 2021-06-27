@@ -5,5 +5,7 @@ AIFFEL에서 진행한 Exploration/Going Deeper 프로젝트를 정리했습니�
 
 |Exploration|Project|Application|
 |:---------:|:-----:|:---------:|
-|01|가위바위보 분류기|image classification, CNN|
-|02|sklearn 데이터셋 분류기|sklearn, ML Algorithm, comfusion matrix|
+|01|[가위바위보 분류기](https://github.com/miinkang/AI_Project_AIFFEL/blob/main/%5BE-01%5DRockPaperScissors_Classifier.ipynb)|image classification, CNN|
+|02|[sklearn 데이터셋 분류기](https://github.com/miinkang/AI_Project_AIFFEL/blob/main/%5BE-02%5Dsklearn_dataset_classification.ipynb)|sklearn, ML Algorithm, comfusion matrix|
+|03|[카메라 스티커 어플](https://github.com/miinkang/AI_Project_AIFFEL/blob/main/%5BE-03%5Dcamera_sticker_application.ipynb)|face detection, landmark localization, dlib, opencv|
+|04|[한국어 감성분석](https://github.com/miinkang/AI_Project_AIFFEL/blob/main/%5BE-04%5Dmovie_review_sentimental_classification.ipynb)|sentimental anlaysis, word2vec, RNN|
