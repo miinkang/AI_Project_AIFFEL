@@ -4,7 +4,7 @@ AIFFEL에서 진행한 Exploration/Going Deeper 프로젝트를 정리했습니�
 - 주 2회 Exploration/Going Deeper(NLP과정 선택) 프로젝트를 스스로 학습했으며, 그 과정을 정리했습니다. 
 
 ## Exploration
-- NLP, CV, RS 다양한 분야의 AI 미니 프로젝트를 수행했습니다.
+- **NLP, CV, RS** 등 다양한 AI 분야의 미니 프로젝트를 수행했습니다.
 
 |Exploration|Project|Application|
 |:------:|:---------:|:---------:|
@@ -31,7 +31,7 @@ AIFFEL에서 진행한 Exploration/Going Deeper 프로젝트를 정리했습니�
 
 
 ## Going Deeper
-- NLP에 관련된 AI 심화 프로젝트를 수행했습니다.
+- **NLP**에 관련된 AI 심화 프로젝트를 수행했습니다.
 
 |Going Deeper|Project|Application|blog|
 |:---------:|:---------:|:---------:|:---------:|
