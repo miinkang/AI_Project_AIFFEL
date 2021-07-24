@@ -1,7 +1,7 @@
 # Project_AIFFEL
 AIFFEL에서 진행한 Exploration/Going Deeper 프로젝트를 정리했습니다.
 - AIFFEL : 모두의연구소 소속 AI 혁신학교
-- 주 2회 Exploration/Going Deeper(NLP과정 선택) 프로젝트를 스스로 학습했으며, 그 과정을 정리했습니다. 
+- 주 2회 Exploration/Going Deeper(NLP과정 선택) 프로젝트를 스스로 학습했으며, 그 과정 및 결과를 정리했습니다. 
 
 ## Exploration
 - **NLP, CV, RS** 등 다양한 AI 분야의 미니 프로젝트를 수행했습니다.
