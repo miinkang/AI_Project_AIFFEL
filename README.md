@@ -35,7 +35,7 @@ AIFFEL에서 진행한 Exploration/Going Deeper 프로젝트를 정리했습니�
 
 |Going Deeper|Project|Application|blog|
 |:---------:|:---------:|:---------:|:---------:|
-|01|[SentencePiece](https://github.com/miinkang/AI_Project_AIFFEL/blob/main/%5BGD-02%5DSentencePiece.ipynb)|SentencePiece, LSTM|[👆](https://miinkang.github.io/nlp/how_to_preprocess_natural_language/)|
-|02|[TF-IDF Vectorization](https://github.com/miinkang/AI_Project_AIFFEL/blob/main/%5BGD-04%5DTFIDF_vectorization.ipynb)|DTM, TF-IDF|[👆](https://miinkang.github.io/nlp/distributed_representation/)|
-|03|[영화 장르 간 편향성 측정해 보기](https://github.com/miinkang/AI_Project_AIFFEL/blob/main/%5BGD-06%5Dword_embedding_association_WEAT.ipynb)|WEAT score|[👆](https://miinkang.github.io/ml/dl/weight_initialization/)|
+|01|[SentencePiece](https://github.com/miinkang/AI_Project_AIFFEL/blob/main/%5BGD-02%5DSentencePiece.ipynb)|SentencePiece, LSTM|[👆](https://miinkang.tistory.com/8)|
+|02|[TF-IDF Vectorization](https://github.com/miinkang/AI_Project_AIFFEL/blob/main/%5BGD-04%5DTFIDF_vectorization.ipynb)|DTM, TF-IDF|[👆](https://miinkang.tistory.com/9)|
+|03|[영화 장르 간 편향성 측정해 보기](https://github.com/miinkang/AI_Project_AIFFEL/blob/main/%5BGD-06%5Dword_embedding_association_WEAT.ipynb)|WEAT score|[👆](https://miinkang.tistory.com/22)|
 |04|[한영 번역기 만들기](https://github.com/miinkang/AI_Project_AIFFEL/blob/main/%5BGD-08%5Dattention_based_seq2seq_translation.ipynb)|Attention based seq2seq, Machine Translation||
